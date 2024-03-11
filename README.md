@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 <p>
 <img src="https://github.com/krish0i/calculator1/assets/162409974/3d3b0323-43b1-4505-8cca-272010f0a441)
-" height='60%' width='30%'>
+" height='100%' width='100%'>
 </p>
